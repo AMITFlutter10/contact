@@ -1,4 +1,4 @@
 class AppStrings{
-  static const String title = 'Flutter iiii' ;
+  static const String title = 'Flutter contact' ;
 
 }
